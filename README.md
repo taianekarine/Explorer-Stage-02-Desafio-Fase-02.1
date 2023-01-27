@@ -38,7 +38,7 @@ Primeiro commit.
 
 ## 🔖 Layout do projeto
 
-![PRO2-1](https://user-images.githubusercontent.com/94652702/214983794-98d1e620-1de3-4db1-8d20-299a4ce6009d.png)
+![PRO2-1](https://user-images.githubusercontent.com/94652702/215076881-e4e1e203-9fbf-4f2f-b2f1-a2771c92787c.png)
 Segundo commit.
 
 ## Aprendizado
